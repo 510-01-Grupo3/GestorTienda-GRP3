@@ -36,8 +36,9 @@ namespace GestorTienda_GRP3
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(729, 449);
+            this.IsMdiContainer = true;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Gestor Tienda GRP3";
             this.ResumeLayout(false);
 
         }
